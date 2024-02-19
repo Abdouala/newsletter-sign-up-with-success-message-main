@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
    plugins: [react()],
-+  base: '/vite-deploy-demo/'
++  base: '/newsletter-sign-up-with-success-message-main/'
 })
