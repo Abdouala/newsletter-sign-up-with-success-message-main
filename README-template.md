@@ -94,8 +94,10 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [Example resource 1](https://developer.mozilla.org/fr/docs/Learn/Forms/Form_validation) - This helped me for form validation.
-- [Example resource 2](https://fluidtypography.com/)
+- [Web forms — Working with user data](https://developer.mozilla.org/en-US/docs/Learn/Forms)
+- [Fluid typography tool](https://fluidtypography.com/)
+- [Deploy Vite app to GitHub Pages using GitHub Actions](https://github.com/sitek94/vite-deploy-demo)
+- [Markdown guide](https://www.markdownguide.org/)
 
 **Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
