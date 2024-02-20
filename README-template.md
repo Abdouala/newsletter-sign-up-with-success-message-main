@@ -46,8 +46,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github repo](https://github.com/Abdouala/newsletter-sign-up-with-success-message-main)
+- Live Site URL: [Live Website](https://abdouala.github.io/newsletter-sign-up-with-success-message-main/)
 
 ## My process
 
@@ -94,6 +94,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
+- [ViteJs Official Site](https://vitejs.dev/)
 - [Web forms — Working with user data](https://developer.mozilla.org/en-US/docs/Learn/Forms)
 - [Fluid typography tool](https://fluidtypography.com/)
 - [Deploy Vite app to GitHub Pages using GitHub Actions](https://github.com/sitek94/vite-deploy-demo)
